@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESP8266 on ankitdaf&#39;s Space</title>
+    <link>https://ankitdaf.github.io/tags/esp8266/</link>
+    <description>Recent content in ESP8266 on ankitdaf&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2016 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://ankitdaf.github.io/tags/esp8266/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DooButton</title>
+      <link>https://ankitdaf.github.io/projects/doobutton/</link>
+      <pubDate>Tue, 11 Oct 2016 12:41:05 -0500</pubDate>
+      
+      <guid>https://ankitdaf.github.io/projects/doobutton/</guid>
+      <description>DooButton is a big Red Internet connected button that will ping a web server if you press it. It will toggle on or off based on its previous state. It behaves like a &amp;ldquo;Call attendant&amp;rdquo; button in an airplane. The web server it connects to can be customised.
+The DooButton can be used in museums, restaurants and other interactive installations.
+The DooButton is based on the ESP8266. The technical details are in the PDF below.</description>
+    </item>
+    
+  </channel>
+</rss>

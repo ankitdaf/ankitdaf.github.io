@@ -6,7 +6,7 @@
     <description>Recent content in Retail on ankitdaf&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://ankitdaf.github.io/tags/retail/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>PhonePe POS</title>
       <link>https://ankitdaf.github.io/projects/phonepe_pos/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <pubDate>Wed, 11 Oct 2017 12:41:05 -0500</pubDate>
       
       <guid>https://ankitdaf.github.io/projects/phonepe_pos/</guid>
       <description>The PhonePe POS is a Point-of-Sale device to receive payments in small retail stores easily. It allows customers to make proximity payments over BLE, without needing Internet infrastructure at the store. The POS works like a calculator, and payments can be accepted by pressing just one button.
