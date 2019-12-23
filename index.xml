@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ankitdaf&#39;s Space</title>
-    <link>https://ankitdaf.github.io/</link>
+    <link>https://ankitdaf.com/</link>
     <description>Recent content on ankitdaf&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Oct 2017 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://ankitdaf.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ankitdaf.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PhonePe POS</title>
-      <link>https://ankitdaf.github.io/projects/phonepe_pos/</link>
+      <link>https://ankitdaf.com/projects/phonepe_pos/</link>
       <pubDate>Wed, 11 Oct 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://ankitdaf.github.io/projects/phonepe_pos/</guid>
+      <guid>https://ankitdaf.com/projects/phonepe_pos/</guid>
       <description>The PhonePe POS is a Point-of-Sale device to receive payments in small retail stores easily. It allows customers to make proximity payments over BLE, without needing Internet infrastructure at the store. The POS works like a calculator, and payments can be accepted by pressing just one button.
 The POS is designed on top of the calculator interface to make it extremely easy for merchants to learn and use. Trustworthiness, simplicity, ease of use and low cost were important values in the design process.</description>
     </item>
     
     <item>
       <title>DooButton</title>
-      <link>https://ankitdaf.github.io/projects/doobutton/</link>
+      <link>https://ankitdaf.com/projects/doobutton/</link>
       <pubDate>Tue, 11 Oct 2016 12:41:05 -0500</pubDate>
       
-      <guid>https://ankitdaf.github.io/projects/doobutton/</guid>
+      <guid>https://ankitdaf.com/projects/doobutton/</guid>
       <description>DooButton is a big Red Internet connected button that will ping a web server if you press it. It will toggle on or off based on its previous state. It behaves like a &amp;ldquo;Call attendant&amp;rdquo; button in an airplane. The web server it connects to can be customised.
 The DooButton can be used in museums, restaurants and other interactive installations.
 The DooButton is based on the ESP8266. The technical details are in the PDF below.</description>
@@ -34,10 +34,10 @@ The DooButton is based on the ESP8266. The technical details are in the PDF belo
     
     <item>
       <title>Breathing Mood Lamp</title>
-      <link>https://ankitdaf.github.io/projects/breathing_mood_lamp/</link>
+      <link>https://ankitdaf.com/projects/breathing_mood_lamp/</link>
       <pubDate>Sun, 11 Oct 2015 12:41:05 -0500</pubDate>
       
-      <guid>https://ankitdaf.github.io/projects/breathing_mood_lamp/</guid>
+      <guid>https://ankitdaf.com/projects/breathing_mood_lamp/</guid>
       <description>OLTRA (One Lamp to Rule Them All) is a Breathing Mood Lamp that breathes to help you relax and lights up with any color you want. It can be powered off a power bank, a computer or a wall plug, and it can be easily carried around too. The user can color it according to their mood, by simply turning a knob. It can be used as a table lamp, a ceiling lamp, a lantern or a Halloween pumpkin !</description>
     </item>
     

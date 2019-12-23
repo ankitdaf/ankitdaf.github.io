@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calculator on ankitdaf&#39;s Space</title>
-    <link>https://ankitdaf.github.io/tags/calculator/</link>
+    <link>https://ankitdaf.com/tags/calculator/</link>
     <description>Recent content in Calculator on ankitdaf&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Oct 2017 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://ankitdaf.github.io/tags/calculator/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ankitdaf.com/tags/calculator/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PhonePe POS</title>
-      <link>https://ankitdaf.github.io/projects/phonepe_pos/</link>
+      <link>https://ankitdaf.com/projects/phonepe_pos/</link>
       <pubDate>Wed, 11 Oct 2017 12:41:05 -0500</pubDate>
       
-      <guid>https://ankitdaf.github.io/projects/phonepe_pos/</guid>
+      <guid>https://ankitdaf.com/projects/phonepe_pos/</guid>
       <description>The PhonePe POS is a Point-of-Sale device to receive payments in small retail stores easily. It allows customers to make proximity payments over BLE, without needing Internet infrastructure at the store. The POS works like a calculator, and payments can be accepted by pressing just one button.
 The POS is designed on top of the calculator interface to make it extremely easy for merchants to learn and use. Trustworthiness, simplicity, ease of use and low cost were important values in the design process.</description>
     </item>
