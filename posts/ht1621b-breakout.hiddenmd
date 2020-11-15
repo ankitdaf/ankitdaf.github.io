@@ -1,0 +1,29 @@
+---
+{
+  "title": "HT1621B Display controller Breakout Board",
+  "date": "2016-08-23T12:41:05-05:00",
+  "description": "From Idea to Factory and beyond",
+  "tags": ["Shenzhen", "manufacturing", "devices", "prototyping"],
+  "categories" : ["manufacturing"],
+  "fact": "",
+  "featured":false,
+  "summary": "HT1621B PCB"
+}
+---
+
+
+As a part of my work, I needed to drive an LCD segment display. Now, these displays are somewhat of a mixed breed between LCDs and 7 segment displays. They look sleek like LCDs, and are structured like 7 segment displays. However, they cannot be controlled just by toggling the segment pin of a particular segment high. They actually expect something of an “AC” signal to keep them on.
+
+There are Arduino libraries that allow you to do this : You can find it {{< external-link "here" "http://playground.arduino.cc/Main/SevenSegmentLibrary" >}}. However, if you are going to need 8-9 pins to control one character, you’ll find you will quickly run out of pins. Thankfully, these segments are very common, and so of course, there are controller ICs that will drive these displays, and let you offload the cumbersome task of generating the AC signals to drive those LCDs. The HT1621B is the perfect LCD segment controller IC for this job.
+
+You just have to send messages serially to the HT1621B (in the right format of course), specify the necessary parameters, and the controller will take care of the rest. You can use the Arduino library for the HT1621B here.
+
+HT1621B Breakout board
+
+While working on this, I found it rather difficult to find an existing breakout board for the HT1621B, which is in the SOP48 package. I designed a board for it so that I could test it out. You can order the board with HT1621B controller ( if you are in India ) at the Amazon link here : http://amzn.to/2bRSKVb .
+
+If you want to get just the SOP48 breakout board, you can head over to OSHPark (link below).
+
+Order from OSH Park
+
+I hope this is useful !

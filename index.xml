@@ -6,7 +6,16 @@
     <description>Recent content on ankitdaf&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2017 12:41:05 -0500</lastBuildDate><atom:link href="https://ankitdaf.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Dec 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://ankitdaf.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making Devices</title>
+      <link>https://ankitdaf.com/posts/making-devices/</link>
+      <pubDate>Sun, 09 Dec 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://ankitdaf.com/posts/making-devices/</guid>
+      <description>Taking a product from Idea to Factory and beyond</description>
+    </item>
+    
     <item>
       <title>PhonePe POS</title>
       <link>https://ankitdaf.com/projects/phonepe_pos/</link>
@@ -15,6 +24,15 @@
       <guid>https://ankitdaf.com/projects/phonepe_pos/</guid>
       <description>The PhonePe POS is a Point-of-Sale device to receive payments in small retail stores easily. It allows customers to make proximity payments over BLE, without needing Internet infrastructure at the store. The POS works like a calculator, and payments can be accepted by pressing just one button.
 The POS is designed on top of the calculator interface to make it extremely easy for merchants to learn and use. Trustworthiness, simplicity, ease of use and low cost were important values in the design process.</description>
+    </item>
+    
+    <item>
+      <title>Making it in Shenzhen</title>
+      <link>https://ankitdaf.com/posts/making-in-shenzhen/</link>
+      <pubDate>Tue, 28 Mar 2017 12:41:05 -0500</pubDate>
+      
+      <guid>https://ankitdaf.com/posts/making-in-shenzhen/</guid>
+      <description>How to make the best out of a trip to Shenzhen</description>
     </item>
     
     <item>
