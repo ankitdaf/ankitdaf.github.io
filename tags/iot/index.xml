@@ -6,17 +6,14 @@
     <description>Recent content in IoT on ankitdaf&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2016 12:41:05 -0500</lastBuildDate><atom:link href="https://ankitdaf.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2016 12:41:05 -0500</lastBuildDate>
+    <atom:link href="https://ankitdaf.com/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DooButton</title>
       <link>https://ankitdaf.com/projects/doobutton/</link>
       <pubDate>Tue, 11 Oct 2016 12:41:05 -0500</pubDate>
-      
       <guid>https://ankitdaf.com/projects/doobutton/</guid>
-      <description>DooButton is a big Red Internet connected button that will ping a web server if you press it. It will toggle on or off based on its previous state. It behaves like a &amp;ldquo;Call attendant&amp;rdquo; button in an airplane. The web server it connects to can be customised.
-The DooButton can be used in museums, restaurants and other interactive installations.
-The DooButton is based on the ESP8266. The technical details are in the PDF below.</description>
+      <description>DooButton is a big Red Internet connected button that will ping a web server if you press it. It will toggle on or off based on its previous state. It behaves like a &amp;ldquo;Call attendant&amp;rdquo; button in an airplane. The web server it connects to can be customised.&#xA;The DooButton can be used in museums, restaurants and other interactive installations.&#xA;The DooButton is based on the ESP8266. The technical details are in the PDF below.</description>
     </item>
-    
   </channel>
 </rss>

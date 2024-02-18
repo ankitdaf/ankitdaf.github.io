@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Making Devices</title>
-  <meta property="og:title" content="Making Devices" />
+  <title>PhonePe SmartSpeaker</title>
+  <meta property="og:title" content="PhonePe SmartSpeaker" />
   <meta property="og:image" content="https://ankitdaf.com/img/Ankit.png" />
   <meta name="description" content="I bring software and hardware together to provide great experiences">
   <meta name="author" content="Ankit Daftery">
@@ -21,19 +21,6 @@
   <link href="https://ankitdaf.com/css/tweaks.css" rel="stylesheet">
   
 
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@ankitdaf">
-<meta name="twitter:title" content="Making Devices">
-<meta name="twitter:image" content="">
-<meta property="og:description" content="Taking a product from Idea to Factory and beyond" />
-
-
-
-
-
-
-
-<meta property="og:description" content="I bring software and hardware together to provide great experiences" />
 
 
   <meta name="generator" content="Hugo 0.122.0">
@@ -117,12 +104,12 @@
 
 
 <li class="breadcrumb-item">
-  <a href="https://ankitdaf.com/posts/">Posts</a>
+  <a href="https://ankitdaf.com/projects/">Work</a>
 </li>
 
 
 <li class="breadcrumb-item active">
-  <a href="https://ankitdaf.com/posts/making-devices/">Making Devices</a>
+  <a href="https://ankitdaf.com/projects/phonepe_smartspeaker/">PhonePe SmartSpeaker</a>
 </li>
 
   </ol>
@@ -133,140 +120,33 @@
 
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
-    <h2 class="mb-0"><span class="text-primary">Making Devices</span></h2>
-    <span class="text-primary">December 9, 2018</span>
-    <p>I have had the benefit of getting help and advice from a lot of people and resources, as I went along the journey of converting an idea into a product, the PhonePe POS. I have put together a few things to be taken into consideration as you go from an idea to a prototype to engineering samples to your pre-production builds, and to finally receiving that first lot of mass manufactured products.</p>
-<p>More and more startups everywhere are building innovative hardware, and while I have put together my experiences doing this in India, I hope this can be of use to startups outside India as well. The considerations mentioned here deal with sourcing, engineering, logistics, compliance and the interplay of these and other elements.</p>
-<p>The document presented here is not a HOW-TO guide, but more like a framework to help you find and weigh opportunities as you race to getting your product out the factory and to market.</p>
-<script type="text/javascript" src="/js/pdf-js/build/pdf.js"></script>
-<style>
-#the-canvas {
-  border: 1px solid black;
-  direction: ltr;
-  width: 100%;
-  height: auto;
-}
-#paginator{
-    text-align: center;
-    margin-bottom: 10px;
-}
-</style>
+    <h2 class="mb-3"><span class="text-primary">PhonePe SmartSpeaker</span></h2>
+    <div class="d-flex">
+  <div class="col-5 pl-0">
+    <p>The PhonePe SmartSpeaker provides instant payment confirmation to merchants at their stores in 11 languages.</p>
+<p>I led the product launch, and built the foundational experiences that enabled PhonePe to scale rapidly on the field. These include procurement and warranty terms, design of device behaviour and firmware update mechanisms, inventory management and deployment experience for a field team of 7k+ agents, and device management experience design for the end merchants.</p>
+<p>I worked with a wide array of platform as well as vertical teams on this project to deliver this on a tight timeline, enabling a deployment of 4 Million devices in a year.</p>
 
-<div id="paginator">
-    <button id="prev">Previous</button>
-    <button id="next">Next</button>
-    &nbsp; &nbsp;
-    <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+    
+    
 </div>
-<div id="embed-pdf-container">
-    <canvas id="the-canvas"></canvas>
+<div class="col-7">
+    
+      <img src="/img/project_phonepe_smartspeaker.png"/>
+    
+  </div>
 </div>
-
-<script type="text/javascript">
-window.onload = function() {
-
-
-
-var url = "\/pdf\/IdeaToFactory.pdf";
-
-
-var pdfjsLib = window['pdfjs-dist/build/pdf'];
-
-
-pdfjsLib.GlobalWorkerOptions.workerSrc = '/js/pdf-js/build/pdf.worker.js';
-
-
-var pdfDoc = null,
-    pageNum = 1,
-    pageRendering = false,
-    pageNumPending = null,
-    scale = 3,
-    canvas = document.getElementById('the-canvas'),
-    ctx = canvas.getContext('2d');
-
-
-
-function renderPage(num) {
-  pageRendering = true;
-  
-  pdfDoc.getPage(num).then(function(page) {
-    var viewport = page.getViewport({scale: scale});
-    canvas.height = viewport.height;
-    canvas.width = viewport.width;
-
+<ul class="tags">
     
-    var renderContext = {
-      canvasContext: ctx,
-      viewport: viewport
-    };
-    var renderTask = page.render(renderContext);
-
+      <li><a class="tag" href="/tags/smartspeaker">SmartSpeaker</a></li>
     
-    renderTask.promise.then(function() {
-      pageRendering = false;
-      if (pageNumPending !== null) {
-        
-        renderPage(pageNumPending);
-        pageNumPending = null;
-      }
-    });
-  });
-
-  
-  document.getElementById('page_num').textContent = num;
-}
-
-
-
-function queueRenderPage(num) {
-  if (pageRendering) {
-    pageNumPending = num;
-  } else {
-    renderPage(num);
-  }
-}
-
-
-
-function onPrevPage() {
-  if (pageNum <= 1) {
-    return;
-  }
-  pageNum--;
-  queueRenderPage(pageNum);
-}
-document.getElementById('prev').addEventListener('click', onPrevPage);
-
-
-
-function onNextPage() {
-  if (pageNum >= pdfDoc.numPages) {
-    return;
-  }
-  pageNum++;
-  queueRenderPage(pageNum);
-}
-document.getElementById('next').addEventListener('click', onNextPage);
-
-
-
-pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
-  pdfDoc = pdfDoc_;
-  document.getElementById('page_count').textContent = pdfDoc.numPages;
-
-  
-  renderPage(pageNum);
-});
-}
-
-</script>
-
+      <li><a class="tag" href="/tags/soundbox">SoundBox</a></li>
     
-    <ul class="tags">
+      <li><a class="tag" href="/tags/retail">Retail</a></li>
     
-      <li><a class="tag" href="/tags/manufacturing">manufacturing</a></li>
+      <li><a class="tag" href="/tags/payments">Payments</a></li>
     
-      <li><a class="tag" href="/tags/prototyping">prototyping</a></li>
+      <li><a class="tag" href="/tags/offline">Offline</a></li>
     
 </ul>
 

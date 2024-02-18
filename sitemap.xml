@@ -1,153 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ankitdaf.com/</loc>
-    <lastmod>2020-11-15T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/tags/offline/</loc>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/tags/payments/</loc>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/projects/phonepe_smartspeaker/</loc>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/tags/retail/</loc>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/tags/smartspeaker/</loc>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/tags/soundbox/</loc>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/tags/</loc>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/projects/</loc>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+    <priority>0.9</priority>
+  </url><url>
     <loc>https://ankitdaf.com/categories/</loc>
     <lastmod>2020-11-15T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/happiness/</loc>
     <lastmod>2020-11-15T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/posts/managing-yourself/</loc>
     <lastmod>2020-11-15T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/posts/</loc>
     <lastmod>2020-11-15T12:41:05-05:00</lastmod>
     <priority>0.8</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/productivity/</loc>
     <lastmod>2020-11-15T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/categories/productivity/</loc>
     <lastmod>2020-11-15T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankitdaf.com/tags/</loc>
-    <lastmod>2020-11-15T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/posts/making-devices/</loc>
     <lastmod>2018-12-09T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/manufacturing/</loc>
     <lastmod>2018-12-09T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/categories/manufacturing/</loc>
     <lastmod>2018-12-09T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/prototyping/</loc>
     <lastmod>2018-12-09T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/calculator/</loc>
     <lastmod>2017-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/projects/phonepe_pos/</loc>
     <lastmod>2017-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/point-of-sale/</loc>
     <lastmod>2017-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/proximity/</loc>
     <lastmod>2017-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankitdaf.com/tags/retail/</loc>
-    <lastmod>2017-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankitdaf.com/projects/</loc>
-    <lastmod>2017-10-11T12:41:05-05:00</lastmod>
-    <priority>0.9</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/posts/making-in-shenzhen/</loc>
     <lastmod>2017-03-28T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/shenzhen/</loc>
     <lastmod>2017-03-28T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/projects/doobutton/</loc>
     <lastmod>2016-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/esp8266/</loc>
     <lastmod>2016-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/internet-button/</loc>
     <lastmod>2016-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/iot/</loc>
     <lastmod>2016-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/posts/not-so-cheap-electronics/</loc>
     <lastmod>2016-01-16T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/breathing/</loc>
     <lastmod>2015-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/projects/breathing_mood_lamp/</loc>
     <lastmod>2015-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/light/</loc>
     <lastmod>2015-10-11T12:41:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitdaf.com/tags/mood-lamp/</loc>
     <lastmod>2015-10-11T12:41:05-05:00</lastmod>
   </url>
-  
 </urlset>
