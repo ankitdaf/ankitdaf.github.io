@@ -4,16 +4,23 @@
     <title>ankitdaf&#39;s Space</title>
     <link>https://ankitdaf.com/</link>
     <description>Recent content on ankitdaf&#39;s Space</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Aug 2022 12:41:05 -0500</lastBuildDate>
     <atom:link href="https://ankitdaf.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Recharges and Bill Payments</title>
+      <link>https://ankitdaf.com/projects/recharge_billpayments/</link>
+      <pubDate>Thu, 04 Aug 2022 12:41:05 -0500</pubDate>
+      <guid>https://ankitdaf.com/projects/recharge_billpayments/</guid>
+      <description>&lt;p&gt;I worked on building a one-stop destination for bill payments and recharges for India that catered to &lt;strong&gt;more than 100 million customers&lt;/strong&gt; monthly.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mobile-recharges&#34;&gt;Mobile Recharges&lt;/h3&gt;&#xA;&lt;p&gt;I launched a redesigned experience for the Mobile Recharges category, which facilitates &lt;strong&gt;more than 10 million payments&lt;/strong&gt; daily. This improved user convenience and revenue by&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;providing relevant recommendations and up-selling&lt;/li&gt;&#xA;&lt;li&gt;making plan benefits easier to understand&lt;/li&gt;&#xA;&lt;li&gt;speeding up page loads&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;bill-payments&#34;&gt;Bill Payments&lt;/h3&gt;&#xA;&lt;p&gt;I built products to&lt;/p&gt;</description>
+    </item>
     <item>
       <title>PhonePe SmartSpeaker</title>
       <link>https://ankitdaf.com/projects/phonepe_smartspeaker/</link>
       <pubDate>Thu, 04 Aug 2022 12:41:05 -0500</pubDate>
       <guid>https://ankitdaf.com/projects/phonepe_smartspeaker/</guid>
-      <description>The PhonePe SmartSpeaker provides instant payment confirmation to merchants at their stores in 11 languages.&#xA;I led the product launch, and built the foundational experiences that enabled PhonePe to scale rapidly on the field. These include procurement and warranty terms, design of device behaviour and firmware update mechanisms, inventory management and deployment experience for a field team of 7k+ agents, and device management experience design for the end merchants.&#xA;I worked with a wide array of platform as well as vertical teams on this project to deliver this on a tight timeline, enabling a deployment of 4 Million devices in a year.</description>
+      <description>&lt;p&gt;The PhonePe SmartSpeaker provides instant payment confirmation to merchants at their stores in 11 languages.&lt;/p&gt;&#xA;&lt;p&gt;I led the product launch, and built the foundational experiences that enabled PhonePe to scale rapidly on the field. These include procurement and warranty terms, design of device behaviour and firmware update mechanisms, inventory management and deployment experience for a field team of 7k+ agents, and device management experience design for the end merchants.&lt;/p&gt;&#xA;&lt;p&gt;I worked with a wide array of platform as well as vertical teams on this project to deliver this on a tight timeline, enabling a deployment of 4 Million devices in a year.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Managing Yourself</title>
@@ -34,7 +41,7 @@
       <link>https://ankitdaf.com/projects/phonepe_pos/</link>
       <pubDate>Wed, 11 Oct 2017 12:41:05 -0500</pubDate>
       <guid>https://ankitdaf.com/projects/phonepe_pos/</guid>
-      <description>The PhonePe POS is a Point-of-Sale device to receive payments in small retail stores easily. It allows customers to make proximity payments over BLE, without needing Internet infrastructure at the store. The POS works like a calculator, and payments can be accepted by pressing just one button.&#xA;The POS is designed on top of the calculator interface to make it extremely easy for merchants to learn and use. Trustworthiness, simplicity, ease of use and low cost were important values in the design process.</description>
+      <description>&lt;p&gt;The PhonePe POS is a Point-of-Sale device to receive payments in small retail stores easily. It allows customers to make proximity payments over BLE, without needing Internet infrastructure at the store. The POS works like a calculator, and payments can be accepted by pressing just one button.&lt;/p&gt;&#xA;&lt;p&gt;The POS is designed on top of the calculator interface to make it extremely easy for merchants to learn and use. Trustworthiness, simplicity, ease of use and low cost were important values in the design process.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Making it in Shenzhen</title>
@@ -48,7 +55,7 @@
       <link>https://ankitdaf.com/projects/doobutton/</link>
       <pubDate>Tue, 11 Oct 2016 12:41:05 -0500</pubDate>
       <guid>https://ankitdaf.com/projects/doobutton/</guid>
-      <description>DooButton is a big Red Internet connected button that will ping a web server if you press it. It will toggle on or off based on its previous state. It behaves like a &amp;ldquo;Call attendant&amp;rdquo; button in an airplane. The web server it connects to can be customised.&#xA;The DooButton can be used in museums, restaurants and other interactive installations.&#xA;The DooButton is based on the ESP8266. The technical details are in the PDF below.</description>
+      <description>&lt;p&gt;DooButton is a big Red Internet connected button that will ping a web server if you press it. It will toggle on or off based on its previous state. It behaves like a &amp;ldquo;Call attendant&amp;rdquo; button in an airplane. The web server it connects to can be customised.&lt;/p&gt;&#xA;&lt;p&gt;The DooButton can be used in museums, restaurants and other interactive installations.&lt;/p&gt;&#xA;&lt;p&gt;The DooButton is based on the ESP8266. The technical details are in the PDF below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Not-so-cheap electronics</title>
@@ -62,7 +69,7 @@
       <link>https://ankitdaf.com/projects/breathing_mood_lamp/</link>
       <pubDate>Sun, 11 Oct 2015 12:41:05 -0500</pubDate>
       <guid>https://ankitdaf.com/projects/breathing_mood_lamp/</guid>
-      <description>OLTRA (One Lamp to Rule Them All) is a Breathing Mood Lamp that breathes to help you relax and lights up with any color you want. It can be powered off a power bank, a computer or a wall plug, and it can be easily carried around too. The user can color it according to their mood, by simply turning a knob. It can be used as a table lamp, a ceiling lamp, a lantern or a Halloween pumpkin !</description>
+      <description>&lt;p&gt;OLTRA (One Lamp to Rule Them All) is a Breathing Mood Lamp that breathes to help you relax and lights up with any color you want. It can be powered off a power bank, a computer or a wall plug, and it can be easily carried around too. The user can color it according to their mood, by simply turning a knob. It can be used as a table lamp, a ceiling lamp, a lantern or a Halloween pumpkin !&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

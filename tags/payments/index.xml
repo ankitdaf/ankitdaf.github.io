@@ -4,16 +4,23 @@
     <title>Payments on ankitdaf&#39;s Space</title>
     <link>https://ankitdaf.com/tags/payments/</link>
     <description>Recent content in Payments on ankitdaf&#39;s Space</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Aug 2022 12:41:05 -0500</lastBuildDate>
     <atom:link href="https://ankitdaf.com/tags/payments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Recharges and Bill Payments</title>
+      <link>https://ankitdaf.com/projects/recharge_billpayments/</link>
+      <pubDate>Thu, 04 Aug 2022 12:41:05 -0500</pubDate>
+      <guid>https://ankitdaf.com/projects/recharge_billpayments/</guid>
+      <description>&lt;p&gt;I worked on building a one-stop destination for bill payments and recharges for India that catered to &lt;strong&gt;more than 100 million customers&lt;/strong&gt; monthly.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mobile-recharges&#34;&gt;Mobile Recharges&lt;/h3&gt;&#xA;&lt;p&gt;I launched a redesigned experience for the Mobile Recharges category, which facilitates &lt;strong&gt;more than 10 million payments&lt;/strong&gt; daily. This improved user convenience and revenue by&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;providing relevant recommendations and up-selling&lt;/li&gt;&#xA;&lt;li&gt;making plan benefits easier to understand&lt;/li&gt;&#xA;&lt;li&gt;speeding up page loads&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;bill-payments&#34;&gt;Bill Payments&lt;/h3&gt;&#xA;&lt;p&gt;I built products to&lt;/p&gt;</description>
+    </item>
     <item>
       <title>PhonePe SmartSpeaker</title>
       <link>https://ankitdaf.com/projects/phonepe_smartspeaker/</link>
       <pubDate>Thu, 04 Aug 2022 12:41:05 -0500</pubDate>
       <guid>https://ankitdaf.com/projects/phonepe_smartspeaker/</guid>
-      <description>The PhonePe SmartSpeaker provides instant payment confirmation to merchants at their stores in 11 languages.&#xA;I led the product launch, and built the foundational experiences that enabled PhonePe to scale rapidly on the field. These include procurement and warranty terms, design of device behaviour and firmware update mechanisms, inventory management and deployment experience for a field team of 7k+ agents, and device management experience design for the end merchants.&#xA;I worked with a wide array of platform as well as vertical teams on this project to deliver this on a tight timeline, enabling a deployment of 4 Million devices in a year.</description>
+      <description>&lt;p&gt;The PhonePe SmartSpeaker provides instant payment confirmation to merchants at their stores in 11 languages.&lt;/p&gt;&#xA;&lt;p&gt;I led the product launch, and built the foundational experiences that enabled PhonePe to scale rapidly on the field. These include procurement and warranty terms, design of device behaviour and firmware update mechanisms, inventory management and deployment experience for a field team of 7k+ agents, and device management experience design for the end merchants.&lt;/p&gt;&#xA;&lt;p&gt;I worked with a wide array of platform as well as vertical teams on this project to deliver this on a tight timeline, enabling a deployment of 4 Million devices in a year.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

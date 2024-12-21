@@ -4,7 +4,7 @@
     <title>Proximity on ankitdaf&#39;s Space</title>
     <link>https://ankitdaf.com/tags/proximity/</link>
     <description>Recent content in Proximity on ankitdaf&#39;s Space</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Oct 2017 12:41:05 -0500</lastBuildDate>
     <atom:link href="https://ankitdaf.com/tags/proximity/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://ankitdaf.com/projects/phonepe_pos/</link>
       <pubDate>Wed, 11 Oct 2017 12:41:05 -0500</pubDate>
       <guid>https://ankitdaf.com/projects/phonepe_pos/</guid>
-      <description>The PhonePe POS is a Point-of-Sale device to receive payments in small retail stores easily. It allows customers to make proximity payments over BLE, without needing Internet infrastructure at the store. The POS works like a calculator, and payments can be accepted by pressing just one button.&#xA;The POS is designed on top of the calculator interface to make it extremely easy for merchants to learn and use. Trustworthiness, simplicity, ease of use and low cost were important values in the design process.</description>
+      <description>&lt;p&gt;The PhonePe POS is a Point-of-Sale device to receive payments in small retail stores easily. It allows customers to make proximity payments over BLE, without needing Internet infrastructure at the store. The POS works like a calculator, and payments can be accepted by pressing just one button.&lt;/p&gt;&#xA;&lt;p&gt;The POS is designed on top of the calculator interface to make it extremely easy for merchants to learn and use. Trustworthiness, simplicity, ease of use and low cost were important values in the design process.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
