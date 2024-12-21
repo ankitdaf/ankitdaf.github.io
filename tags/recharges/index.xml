@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recharges on ankitdaf&#39;s Space</title>
+    <link>http://localhost:1313/tags/recharges/</link>
+    <description>Recent content in Recharges on ankitdaf&#39;s Space</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Aug 2022 12:41:05 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/recharges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Recharges and Bill Payments</title>
+      <link>http://localhost:1313/projects/recharge_billpayments/</link>
+      <pubDate>Thu, 04 Aug 2022 12:41:05 -0500</pubDate>
+      <guid>http://localhost:1313/projects/recharge_billpayments/</guid>
+      <description>&lt;p&gt;The PhonePe SmartSpeaker provides instant payment confirmation to merchants at their stores in 11 languages.&lt;/p&gt;&#xA;&lt;p&gt;I led the product launch, and built the foundational experiences that enabled PhonePe to scale rapidly on the field. These include procurement and warranty terms, design of device behaviour and firmware update mechanisms, inventory management and deployment experience for a field team of 7k+ agents, and device management experience design for the end merchants.&lt;/p&gt;&#xA;&lt;p&gt;I worked with a wide array of platform as well as vertical teams on this project to deliver this on a tight timeline, enabling a deployment of 4 Million devices in a year.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

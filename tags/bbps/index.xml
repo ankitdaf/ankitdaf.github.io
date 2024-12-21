@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BBPS on ankitdaf&#39;s Space</title>
+    <link>https://ankitdaf.com/tags/bbps/</link>
+    <description>Recent content in BBPS on ankitdaf&#39;s Space</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Aug 2022 12:41:05 -0500</lastBuildDate>
+    <atom:link href="https://ankitdaf.com/tags/bbps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Recharges and Bill Payments</title>
+      <link>https://ankitdaf.com/projects/recharge_billpayments/</link>
+      <pubDate>Thu, 04 Aug 2022 12:41:05 -0500</pubDate>
+      <guid>https://ankitdaf.com/projects/recharge_billpayments/</guid>
+      <description>&lt;p&gt;I worked on building a one-stop destination for bill payments and recharges for India that catered to &lt;strong&gt;more than 100 million customers&lt;/strong&gt; monthly.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mobile-recharges&#34;&gt;Mobile Recharges&lt;/h3&gt;&#xA;&lt;p&gt;I launched a redesigned experience for the Mobile Recharges category, which facilitates &lt;strong&gt;more than 10 million payments&lt;/strong&gt; daily. This improved user convenience and revenue by&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;providing relevant recommendations and up-selling&lt;/li&gt;&#xA;&lt;li&gt;making plan benefits easier to understand&lt;/li&gt;&#xA;&lt;li&gt;speeding up page loads&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;bill-payments&#34;&gt;Bill Payments&lt;/h3&gt;&#xA;&lt;p&gt;I built products to&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
