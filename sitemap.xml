@@ -3,7 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ankitdaf.com/</loc>
-    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+    <lastmod>2025-02-19T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/posts/build-yourself-an-air-purifier/</loc>
+    <lastmod>2025-02-19T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/posts/</loc>
+    <lastmod>2025-02-19T12:41:05-05:00</lastmod>
+    <priority>0.8</priority>
   </url><url>
     <loc>https://ankitdaf.com/tags/bbps/</loc>
     <lastmod>2022-08-04T12:41:05-05:00</lastmod>
@@ -54,23 +61,19 @@
     <loc>https://ankitdaf.com/posts/managing-yourself/</loc>
     <lastmod>2020-11-15T12:41:05-05:00</lastmod>
   </url><url>
-    <loc>https://ankitdaf.com/posts/</loc>
+    <loc>https://ankitdaf.com/categories/productivity/</loc>
     <lastmod>2020-11-15T12:41:05-05:00</lastmod>
-    <priority>0.8</priority>
   </url><url>
     <loc>https://ankitdaf.com/tags/productivity/</loc>
-    <lastmod>2020-11-15T12:41:05-05:00</lastmod>
-  </url><url>
-    <loc>https://ankitdaf.com/categories/productivity/</loc>
     <lastmod>2020-11-15T12:41:05-05:00</lastmod>
   </url><url>
     <loc>https://ankitdaf.com/posts/making-devices/</loc>
     <lastmod>2018-12-09T12:41:05-05:00</lastmod>
   </url><url>
-    <loc>https://ankitdaf.com/tags/manufacturing/</loc>
+    <loc>https://ankitdaf.com/categories/manufacturing/</loc>
     <lastmod>2018-12-09T12:41:05-05:00</lastmod>
   </url><url>
-    <loc>https://ankitdaf.com/categories/manufacturing/</loc>
+    <loc>https://ankitdaf.com/tags/manufacturing/</loc>
     <lastmod>2018-12-09T12:41:05-05:00</lastmod>
   </url><url>
     <loc>https://ankitdaf.com/tags/prototyping/</loc>
