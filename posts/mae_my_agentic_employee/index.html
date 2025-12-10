@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Building MAE: My Agentic Employee</title>
+  <meta property="og:title" content="Building MAE: My Agentic Employee" /><meta property="og:image" content="https://ankitdaf.com/img/mae_email_categorisation.png" /><meta property="og:url" content="https://ankitdaf.com/posts/mae_my_agentic_employee/" />
+  <meta property="og:type" content="article" /><meta property="og:description" content="A private, local AI email assistant" />
+  <meta name="description" content="A private, local AI email assistant"><meta name="author" content="Ankit Daftery">
+  
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" rel="stylesheet">
+  <link href='https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" rel="stylesheet">
+  
+  <link href="https://ankitdaf.com/css/resume.css" rel="stylesheet">
+  <link href="https://ankitdaf.com/css/tweaks.css" rel="stylesheet">
+  
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@ankitdaf">
+<meta name="twitter:title" content="Building MAE: My Agentic Employee"><meta name="twitter:image" content="https://ankitdaf.com/img/mae_email_categorisation.png"><meta name="twitter:description" content="A private, local AI email assistant" />
+
+
+
+
+
+
+  <meta name="generator" content="Hugo 0.152.2">
+  
+   
+  
+</head>
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+  <a class="navbar-brand js-scroll-trigger" href="#page-top">
+    <span class="d-block d-lg-none">Ankit Daftery</span>
+    <span class="d-none d-lg-block">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/img/Ankit.png" alt="">
+    </span>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#about">About</a>
+      </li>
+      
+      
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#projects">Work</a>
+          </li>
+      
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" target="_blank" href="/posts">Posts</a>
+          </li>
+      
+    </ul>
+  </div>
+  <ul class="list-inline list-social-icons mb-0">
+            
+                <li class="list-inline-item">
+                  <a href="https://www.linkedin.com/in/ankit-d-42451012/" data-toggle="tooltip" title="LinkedIn" data-offset="0 10">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+            
+                <li class="list-inline-item">
+                  <a href="https://github.com/ankitdaf/" data-toggle="tooltip" title="GitHub" data-offset="0 10">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+            
+          </ul>
+</nav>
+
+  <div class="container-fluid p-0">
+    
+<nav aria-label="breadcrumb">
+  <ol  class="breadcrumb">
+    
+
+
+
+
+
+<li class="breadcrumb-item">
+  <a href="https://ankitdaf.com/"></a>
+</li>
+
+
+<li class="breadcrumb-item">
+  <a href="https://ankitdaf.com/posts/">Posts</a>
+</li>
+
+
+<li class="breadcrumb-item active">
+  <a href="https://ankitdaf.com/posts/mae_my_agentic_employee/">Building MAE: My Agentic Employee</a>
+</li>
+
+  </ol>
+</nav>
+
+
+
+
+<section class="resume-section p-3 p-lg-5 d-flex d-column">
+  <div class="my-auto">
+    <h2 class="mb-0"><span class="text-primary">Building MAE: My Agentic Employee</span></h2>
+    <span class="text-primary">December 10, 2025</span>
+    <h3 id="motivation">Motivation</h3>
+<p>We all know the struggle. You sign up for one service, and suddenly you&rsquo;re on five mailing lists. You pay for groceries, and the receipt sits in your inbox forever. I was overwhelmed by the sheer volume of daily emails - newsletters, receipts, and promotions burying the actual important messages. I got tired of manually filtering my inbox, flicking repeatedly to delete or move most of them.</p>
+<p>While cloud-based solutions exist, I wanted a system that:</p>
+<ol>
+<li>Runs locally without sending data to third-party AI services.</li>
+<li>Is extensible and customizable.</li>
+<li>Runs on cheap, easily replaceable hardware.</li>
+<li>Costs negligible amounts to operate (vs $240/year for SaaS).</li>
+<li>Keeps me independent of AI cloud providers.</li>
+</ol>
+<h3 id="enter-mae-my-agentic-employee">Enter <strong>MAE (My Agentic Employee)</strong></h3>
+<p>MAE is a lightweight, intelligent email processing agent designed to run on edge devices. I use a <strong>Radxa Zero 3 (RK3566)</strong>, a capable yet affordable single-board computer.</p>
+<p>It uses a local NPU-accelerated AI model to classify emails and perform automated actions, keeping my inbox clean without sending my data to third-party AI services.</p>
+<h3 id="capabilities">Capabilities</h3>
+<ol>
+<li><strong>Filters the Noise</strong>: Automatically moves promotions to trash.</li>
+<li><strong>Organizes Clutter</strong>: Archives receipts and newsletters (Feeds) so they&rsquo;re accessible but unobtrusive.</li>
+<li><strong>Highlights Importance</strong>: Leaves personal and work emails in the Inbox.</li>
+<li><strong>Respects Privacy</strong>: Runs entirely locally.</li>
+</ol>
+<h4 id="intelligent-classification">Intelligent Classification</h4>
+<p>The agent fetches emails via the Gmail IMAP API and categorizes them into four buckets:</p>
+<ul>
+<li><strong>Transactions</strong>: Bills, invoices, payments, stock trades.</li>
+<li><strong>Feed</strong>: Newsletters, updates, announcements.</li>
+<li><strong>Promotions</strong>: Marketing emails, offers etc.</li>
+<li><strong>Inbox</strong>: Personal correspondence, urgent work.</li>
+</ul>
+<h4 id="automated-actions">Automated Actions</h4>
+<figure><img src="/img/mae_email_categorisation.jpg">
+</figure>
+
+<p>Once classified, MAE takes action:</p>
+<ul>
+<li><strong>Promotions</strong> -&gt; Moved to Trash (recoverable for 30 days).</li>
+<li><strong>Transactions &amp; Feed</strong> -&gt; Marked as Read and Archived.</li>
+<li><strong>Inbox</strong> -&gt; Left untouched.</li>
+</ul>
+<p>This simple logic drastically reduces the cognitive load of checking email.</p>
+<h3 id="mae-solution-architecture">MAE Solution Architecture</h3>
+<ul>
+<li><strong>Hardware</strong>: Radxa Zero 3 (RK3566)</li>
+<li><strong>AI Inference</strong>: RKNN-based 1 TOPS NPU</li>
+<li><strong>Model</strong>: MobileBERT (58 MB)</li>
+<li><strong>Training</strong>: PyTorch -&gt; ONNX -&gt; RKNN</li>
+<li><strong>Inference Time</strong>: ~700 ms/email</li>
+<li><strong>CPU Load</strong>: ~1% average (7% peak)</li>
+<li><strong>RAM Usage</strong>: ~100 MB average (200 MB peak)</li>
+</ul>
+<figure><img src="/img/mae_model_training.jpg">
+</figure>
+
+<p>The heart of MAE is a <strong>MobileBERT</strong> model optimized for the Rockchip NPU (Neural Processing Unit) using the <strong>RKNN Toolkit</strong>. This allows the agent to classify emails with high accuracy and incredibly low power consumption, running efficiently on a small single-board computer.</p>
+<p>Two rounds of training the model with labelled data gives an accuracy of around 98.6%. I have not had the need to move any deleted email out of the trash bin, and I&rsquo;ve had to go through 3-4 emails per day after taking this live.</p>
+<h3 id="future-development">Future Development</h3>
+<ul>
+<li><strong>Calendar Integration</strong>: Extract dates/times and create Google Calendar events.</li>
+<li><strong>Historical Processing</strong>: Clean up years of neglected inbox clutter.</li>
+<li><strong>Contact Management</strong>: Extract and save contact info to Google Contacts.</li>
+<li><strong>WhatsApp Integration</strong>: Create a &ldquo;network map&rdquo; from WhatsApp messages.</li>
+</ul>
+
+    
+    <ul class="tags">
+    
+      <li><a class="tag" href="/tags/ai">ai</a></li>
+    
+      <li><a class="tag" href="/tags/automation">automation</a></li>
+    
+      <li><a class="tag" href="/tags/rknn">rknn</a></li>
+    
+      <li><a class="tag" href="/tags/edge-computing">edge-computing</a></li>
+    
+      <li><a class="tag" href="/tags/rockchip">rockchip</a></li>
+    
+</ul>
+
+  </div>
+</section>
+
+
+    
+    
+  </div>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+  
+  <script src="/js/resume.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-25509961-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-25509961-1');
+  </script>
+  
+
+  
+</body>
+</html>

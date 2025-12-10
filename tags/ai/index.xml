@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on ankitdaf&#39;s Space</title>
+    <link>https://ankitdaf.com/tags/ai/</link>
+    <description>Recent content in Ai on ankitdaf&#39;s Space</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2025 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://ankitdaf.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building MAE: My Agentic Employee</title>
+      <link>https://ankitdaf.com/posts/mae_my_agentic_employee/</link>
+      <pubDate>Wed, 10 Dec 2025 12:00:00 -0500</pubDate>
+      <guid>https://ankitdaf.com/posts/mae_my_agentic_employee/</guid>
+      <description>Building a private, local AI email assistant</description>
+    </item>
+  </channel>
+</rss>
