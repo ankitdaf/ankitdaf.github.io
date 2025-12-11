@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>Building MAE: My Agentic Employee</title>
-  <meta property="og:title" content="Building MAE: My Agentic Employee" /><meta property="og:image" content="https://ankitdaf.com/img/mae_email_categorisation.png" /><meta property="og:url" content="https://ankitdaf.com/posts/mae_my_agentic_employee/" />
+  <meta property="og:title" content="Building MAE: My Agentic Employee" /><meta property="og:image" content="https://ankitdaf.com/img/mae_device.jpg" /><meta property="og:url" content="https://ankitdaf.com/posts/mae_my_agentic_employee/" />
   <meta property="og:type" content="article" /><meta property="og:description" content="A private, local AI email assistant" />
   <meta name="description" content="A private, local AI email assistant"><meta name="author" content="Ankit Daftery">
   
@@ -22,7 +22,7 @@
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@ankitdaf">
-<meta name="twitter:title" content="Building MAE: My Agentic Employee"><meta name="twitter:image" content="https://ankitdaf.com/img/mae_email_categorisation.png"><meta name="twitter:description" content="A private, local AI email assistant" />
+<meta name="twitter:title" content="Building MAE: My Agentic Employee"><meta name="twitter:image" content="https://ankitdaf.com/img/mae_device.jpg"><meta name="twitter:description" content="A private, local AI email assistant" />
 
 
 
@@ -140,6 +140,9 @@
 </ol>
 <h3 id="enter-mae-my-agentic-employee">Enter <strong>MAE (My Agentic Employee)</strong></h3>
 <p>MAE is a lightweight, intelligent email processing agent designed to run on edge devices. I use a <strong>Radxa Zero 3 (RK3566)</strong>, a capable yet affordable single-board computer.</p>
+<figure><img src="/img/mae_device.jpg">
+</figure>
+
 <p>It uses a local NPU-accelerated AI model to classify emails and perform automated actions, keeping my inbox clean without sending my data to third-party AI services.</p>
 <h3 id="capabilities">Capabilities</h3>
 <ol>
@@ -181,7 +184,7 @@
 </figure>
 
 <p>The heart of MAE is a <strong>MobileBERT</strong> model optimized for the Rockchip NPU (Neural Processing Unit) using the <strong>RKNN Toolkit</strong>. This allows the agent to classify emails with high accuracy and incredibly low power consumption, running efficiently on a small single-board computer.</p>
-<p>Two rounds of training the model with labelled data gives an accuracy of around 98.6%. I have not had the need to move any deleted email out of the trash bin, and I&rsquo;ve had to go through 3-4 emails per day after taking this live.</p>
+<p>Two rounds of training the model with labelled data gives an accuracy of around 98.6%. I have not had the need to move any deleted email out of the trash bin, and I&rsquo;ve had to actually read through only 3-4 emails per day after taking this live.</p>
 <h3 id="future-development">Future Development</h3>
 <ul>
 <li><strong>Calendar Integration</strong>: Extract dates/times and create Google Calendar events.</li>
