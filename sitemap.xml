@@ -36,10 +36,10 @@
     <loc>https://ankitdaf.com/tags/</loc>
     <lastmod>2025-12-10T12:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://ankitdaf.com/projects/marketeye/</loc>
+    <loc>https://ankitdaf.com/studio/marketeye/</loc>
     <lastmod>2025-08-15T12:41:05-05:00</lastmod>
   </url><url>
-    <loc>https://ankitdaf.com/projects/</loc>
+    <loc>https://ankitdaf.com/studio/</loc>
     <lastmod>2025-08-15T12:41:05-05:00</lastmod>
     <priority>0.9</priority>
   </url><url>
@@ -66,6 +66,10 @@
   </url><url>
     <loc>https://ankitdaf.com/tags/offline/</loc>
     <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+  </url><url>
+    <loc>https://ankitdaf.com/projects/</loc>
+    <lastmod>2022-08-04T12:41:05-05:00</lastmod>
+    <priority>0.9</priority>
   </url><url>
     <loc>https://ankitdaf.com/tags/payments/</loc>
     <lastmod>2022-08-04T12:41:05-05:00</lastmod>
