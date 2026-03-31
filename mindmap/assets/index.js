@@ -70,7 +70,7 @@ Error generating stack: `+e.message+`
 
 ### Device Details
 - challenge: What information needs to be displayed on the device details page ?
-- option: Device details | What information needs to be displayed on the device details page ? | App design, backend APIs
+- option: Device details | What parameters of the device are important for the user to know ? Subscription, device identification  | App design, backend APIs
 
 ### Troubleshooting
 - challenge: What level of troubleshooting tools can we provide to merchants ?
@@ -191,7 +191,29 @@ Error generating stack: `+e.message+`
 ### Business Continuity
 - challenge: What kinds of business continuity risks might arise and how do we tackle them ? 
 - option: Supply chain | What can we do to mitigate risks of supply chain disruptions ? | Multiple vendors, multi-tenant system
-- option: Scaling issues | How do we ensure that we are able to add / port across providers if they cannot handle load ? | Routing logic and controls, gateway design for switchover`,Hu=`/mindmap/assets/smartspeaker.png`,Uu={"pillar-device":Lu,"pillar-connectivity":Bu,"pillar-merchant":Ru,"pillar-ota":Iu,"pillar-distribution":zu,"pillar-deployment":ju},Wu=({node:e,x:t,y:n,onNodeClick:r,isSelected:i})=>{let a=Uu[e.id]||Mu,o=e.type===`root`,s=e.type===`question`||e.id.startsWith(`node-`);return(0,H.jsx)(xu.div,{initial:{scale:0,opacity:0,x:0,y:0},animate:{scale:1,opacity:1,x:t,y:n,transition:{type:`spring`,damping:12,stiffness:100}},className:`absolute`,style:{left:0,top:0},children:(0,H.jsxs)(`div`,{className:`relative group -translate-x-1/2 -translate-y-1/2`,children:[(0,H.jsx)(xu.button,{whileHover:{scale:1.05},whileTap:{scale:.95},onClick:t=>{t.stopPropagation(),r(e)},className:`
+- option: Scaling issues | How do we ensure that we are able to add / port across providers if they cannot handle load ? | Routing logic and controls, gateway design for switchover
+
+
+## Refurbishment
+
+### Process
+- challenge: What does refurbishment mean in the context of the device ? 
+- option: Mandatory changes | What are the things that need to be replaced when a device is being refurbished ?  | Refurbishment cost
+- option: Identity | Is the core identity of the device mutable by reflashing? | Credential distribution, device lifecycle management, asset tracking
+- option: Reliability | How do we ensure that a new QR code is mapped to the refurbished device with associated mappings to prevent issues ? | Merchant trust, QR issuance and mapping process
+
+### Physical Restoration
+- challenge: How do we handle the physical restoration of returned devices?
+- option: Outer Shell Replacement | Do we replace the plastic casing if it has scratches or stains? | Aesthetics vs BOM cost, brand perception
+- option: Cleaning and Sanitization | What processes are needed to ensure the device is hygienic for the next merchant? | Operational throughput, health and safety standards
+
+### Battery Management
+- challenge: How do we manage battery health in refurbished units?
+- option: Replacement Threshold | At what health percentage do we decide to replace the battery vs keeping the old one? | Warranty risk, refurbishment cost
+
+### Quality Assurance
+- challenge: How do we certify that a refurbished device is ready for redeployment?
+- option: Automated Testing | Can we build a jig that tests the functionality of speakers, LEDs, and connectivity automatically? | Quality assurance, labor costs`,Hu=`/mindmap/assets/smartspeaker.png`,Uu={"pillar-device":Lu,"pillar-connectivity":Bu,"pillar-merchant":Ru,"pillar-ota":Iu,"pillar-distribution":zu,"pillar-deployment":ju},Wu=({node:e,x:t,y:n,onNodeClick:r,isSelected:i})=>{let a=Uu[e.id]||Mu,o=e.type===`root`,s=e.type===`question`||e.id.startsWith(`node-`);return(0,H.jsx)(xu.div,{initial:{scale:0,opacity:0,x:0,y:0},animate:{scale:1,opacity:1,x:t,y:n,transition:{type:`spring`,damping:12,stiffness:100}},className:`absolute`,style:{left:0,top:0},children:(0,H.jsxs)(`div`,{className:`relative group -translate-x-1/2 -translate-y-1/2`,children:[(0,H.jsx)(xu.button,{whileHover:{scale:1.05},whileTap:{scale:.95},onClick:t=>{t.stopPropagation(),r(e)},className:`
             relative z-10 flex items-center justify-center rounded-full border-2 
             transition-all duration-300 shadow-md
             ${o?`w-24 h-24 bg-white border-[#243c7c] shadow-[0_4px_12px_rgba(36,60,124,0.15)]`:s?`px-4 py-2 bg-white border-slate-300 text-slate-700 hover:border-[#243c7c]`:`w-14 h-14 bg-white border-slate-200 text-[#243c7c] hover:border-[#243c7c] shadow-sm`}
